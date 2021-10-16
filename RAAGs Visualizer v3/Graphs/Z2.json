@@ -1,0 +1,10 @@
+{
+  "#generators": 2,
+	
+  "edges": [
+		{
+			"from": 1,
+			"to": 2
+		}
+	]
+}
